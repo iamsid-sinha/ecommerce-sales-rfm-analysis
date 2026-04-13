@@ -45,7 +45,6 @@ This segmentation enables targeted marketing strategies and retention planning.
 
 - Python
 - Pandas
-- NumPy
 - Matplotlib
 - Jupyter Notebook
 
