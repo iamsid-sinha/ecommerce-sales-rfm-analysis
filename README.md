@@ -148,12 +148,19 @@ The processed dataset generated from the Python analysis was used to develop an 
 - State-Level Filtering for regional insights
 
 ---
-
 # 📸 Dashboard Preview
 
-> **Dashboard Overview**
+### Complete Dashboard
 
-![Dashboard Overview](images/dashboard.png)
+![Complete Dashboard](images/dashboard.png)
+
+### KPI Overview
+
+![KPI Overview](images/kpi_view.png)
+
+### Analysis View
+
+![Analysis View](images/analysis_view.png)
 
 ---
 
