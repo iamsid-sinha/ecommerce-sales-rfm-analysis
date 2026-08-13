@@ -224,13 +224,8 @@ ecommerce-sales-analytics/
 ├── notebooks/
 │   └── E-commerce_Analysis.ipynb
 │
-├── dashboard/
-│   └── Ecommerce_Dashboard.pbix
-│
 ├── images/
 │   └── dashboard.png
-│
-├── dataset/
 │
 ├── README.md
 │
