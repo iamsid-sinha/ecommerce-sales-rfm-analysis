@@ -154,14 +154,6 @@ The processed dataset generated from the Python analysis was used to develop an 
 
 ![Complete Dashboard](images/dashboard.png)
 
-### KPI Overview
-
-![KPI Overview](images/kpi_view.png)
-
-### Analysis View
-
-![Analysis View](images/analysis_view.png)
-
 ---
 
 # 💡 Business Insights
@@ -227,9 +219,7 @@ ecommerce-sales-analytics/
 ├── images/
 │   └── dashboard.png
 │
-├── README.md
-│
-└── requirements.txt
+└── README.md
 ```
 
 ---
